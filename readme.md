@@ -1,3 +1,4 @@
+![this is a screnshot](https://github.com/rafiqnasrat/noteTaker/blob/master/Screenshot%20(15).png)
 # Note Taker Project
 
 ## Application deployed on Heroku
